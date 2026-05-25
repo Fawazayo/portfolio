@@ -1,0 +1,139 @@
+fawaz bites
+    
+        <h1>Welcome to Fawaz Bites</h1>
+        <p>Your favorite spot for delicious meals.</p>
+
+        
+        <nav>
+            <a href="./about.html">About</a> 
+            <a href="./menu.html">Menu</a> 
+            
+        </nav>
+
+  
+    <hr>
+
+     <!-- VIDEO SECTION  -->
+    <div>
+
+        <h2>Watch Our Kitchen in Action</h2>
+
+        <video width="500" controls>
+            <source src="./public/video/TVJA0226.MP4" loop muted autoplay width="100%" height=400px style="background-color: red;">
+           
+        </video>
+
+    </div>
+
+    <hr>
+
+    <!-- AUDIO SECTION  -->
+
+    <div>
+
+        <h2>Relax With Music</h2>
+
+        <audio controls>
+            <source src="./public/audios/dj-xclusive-ft-wizkid-jeje-128-ytshorts.savetube.me.mp3" type="audio/mpeg">
+            
+        </audio>
+
+    </div>
+
+    <hr>
+
+    
+
+    </div>
+
+    
+
+   
+    <div id="contact">
+
+        <h2>Reservation Form</h2>
+
+        <br>
+
+            <label>Full Name:</label><br>
+            <input type="text" placeholder="Enter your name"><br><br>
+
+            <label>Email:</label><br>
+            <input type="email" placeholder="Enter your email"><br><br>
+
+            <label>Phone Number:</label><br>
+            <input type="tel" placeholder="Enter phone number"><br><br>
+
+            <label>Select Meal:</label><br>
+
+            <select>
+                <option>Breakfast</option>
+                <option>Brunch</option>
+                <option>Swallow</option>
+            </select>
+
+            
+            <br></br>
+
+            <input type="submit" value="Book Now">
+
+        </form>
+
+    </div>
+
+   
+   HHHHHHHHHH........................
+
+
+   <h1>FAZZY BITES LOGIN PAGE</h1>
+    <h2>Do you have an account?</h2> <br>
+
+    <p>Click here to sign up 
+    <a href="./signup.html"> Click here to sign up</a>
+    </p>
+
+
+    <P>KINDLY TYPE IN YOUR LOGIN DETAILS </P>
+
+
+
+
+        <br>
+
+            <label>Full Name:</label><br>
+            <input type="text" placeholder="Enter your name"><br><br>
+
+            <label>Email:</label><br>
+            <input type="email" placeholder="Enter your email"><br><br>
+
+            <label>PASSWORD:</label><br>
+            <input type="password"placeholder="Enter your password"><br><br>
+
+        <div>
+        <button type="submit">submit</button>
+        <button type="reset">reset</button>
+        </div>
+
+        <br>
+
+        <!-- <div>
+        <label for="username">Username</label>
+        <input type="text" id="username"><br/>
+      </div>
+    
+      <div>
+        <label for="email"> Enter email</label>
+        <input type="email" id="email">
+      </div>
+
+        <div>
+            <label for="password">password</label>
+            <input type="password" id="PASSWORD">
+        </div> -->
+
+        <!-- <div>
+        <button type="submit">submit</button>
+        <button type="reset">reset</button>
+        </div> -->
+
+     

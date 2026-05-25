@@ -1,0 +1,353 @@
+<h1>Cars Available at showroom 
+        <i class="fa-solid fa-car"></i>: </h1>
+    <p> Below are the  cars readily available for purchase. <br/> <hr/> Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae commodi consequatur, laborum voluptatem excepturi, quisquam maiores beatae libero magnam </p>
+
+    <p>
+        <b> toyota </b>
+        <p> camry
+            corolla
+            prado
+        </p>
+    </p>
+
+    <p>
+        <u> benz</u>
+        <p> c400
+            c43 amg
+            G63
+        </p>
+    </p>
+    <p> 
+        <i>honda</i>
+        <p>accord
+            pilot
+        </p>
+    </p>
+
+
+
+    
+    <i class="fa-regular fa-house"></i>
+    <h1>hello Dell</h1>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eligendi, voluptates cupiditate. Nisi ea deserunt enim sed, dolorum amet aliquam aspernatur temporibus reiciendis repellendus animi aperiam culpa aut assumenda. Minima, est?</p>
+
+    <h2> my name is dell</h2>
+    <p> orem ipsum dolor sit amet consectetur adipisicing elit. Eligendi, voluptates cupiditate </p>
+    <h3>my name is dell</h3>
+    <p>orem ipsum dolor sit amet consectetur adipisicing elit. Eligendi, voluptates cupiditate </p>
+    <h4> my name is dell </h4>
+    <p> orem ipsum dolor sit amet consectetur adipisicing elit. Eligendi, voluptates cupiditate</p>
+    <h5> my name is dell</h5>
+    <p> orem ipsum dolor sit amet consectetur adipisicing elit. Eligendi, voluptates cupiditate</p>
+    <h6> my name is dell</h6>
+    <p> orem ipsum dolor sit amet consectetur adipisicing elit. Eligendi, voluptates cupiditate</p>
+
+
+    <!-- list  -->
+
+    <!-- unorder list -->
+
+    <!-- <ul>
+      <li>
+        Basketball
+        <ul>
+          <li>
+            red
+            <ul>
+              <li>20</li>
+              <li>30</li>
+              <li>50</li>
+            </ul>
+          </li>
+          <li>blue</li>
+          <li>green</li>
+        </ul>
+      </li>
+      <li>Football</li>
+      <li>Tennis</li>
+    </ul>
+
+
+    <ol type="A">
+      <li> Basketball
+        <ol type="a">
+          <li>orange</li>
+          <li>red</li>
+          <li>blue</li>
+
+        
+        </ol>
+      </li>
+    </ol> -->
+
+    <!-- Links and Navigations  -->
+
+    <H1>Food <i class="fa-solid fa-bowl-food"></i></H1>
+    <ul>
+      <li><a href="./deserts.html">Deserts <i class="fa-solid fa-ice-cream"></i></a></li>
+      <li>Cake</li>
+      <li>Cookie</li>
+      <li>Pie</li>
+    </ul>
+
+    <ul>
+      <li><a href="./breakfast.html">Breakfast <i class="fa-solid fa-bread-slice"></i></a> </li>
+      <li>Toast Bread</li>
+      <li>Eggies</li>
+      <li>Coffee - Tea</li>
+    </ul>
+
+    <ul>
+      <li><a href = "./swallow.html" >Swallow</a> </li>
+      <li>Amala</li>
+      <li>Eba</li>
+      <li>Pounded yam</li>
+    </ul>
+
+    <ul>
+      <li><a href = "./brunch.html">Brunch</a></li>
+      <li> spagetthi</li>
+      <li>pancake</li>
+      <li>salad</li>
+    </ul>
+
+
+
+    <!-- image , video and audio  -->
+
+    <!-- <img src="./public/image/102589d161c003b9913170ae65f5d991.jpg" alt="imagee" width="100" height="400">
+
+
+    <audio src="./public/aidios/12-Asake-Asambe-Ft-Kabza-De-Small-file-2-(JustNaija.com).mp3" controls></audio>
+
+    <video src="./public/video/DPJU6348.MP4"  loop muted autoplay width="400" height="400"></video> -->
+
+
+    calss work..
+    <h1>Welcome to Fazzy Music . com</h1>
+    <hr>download latest music , videos , images at mp3 , mp4 and jpeg respectively. </hr> Fast download</p>
+
+    <li>
+       
+
+        2026 Afrobeat Artisit
+        <ul>
+        
+          <li><a href="./wizkid.html">Wizkid</a></li>
+          <li><a href="./asake.html"> Asake</a></li>
+        </ul>
+      
+    </li>
+
+
+tabbbbbbbbbbbbleeeeeeeee
+ <table border="3">
+
+      <thead>
+      <tr>
+        <th>Phone</th>
+        <th>Adress</th>
+        <th>Department</th>
+        <th>Remarks</th>
+
+      </tr>
+      </thead>
+
+      <tbody>
+        <tr>
+          <td>+234908089</td>
+          <td>10 lekki 1</td>
+          <td>Science</td>
+          <td>20%</td>
+        </tr>
+
+         <tr>
+          <td>+234908089</td>
+          <td>10 lekki 1</td>
+          <td>Science</td>
+          <td>20%</td>
+        </tr>
+
+         <tr>
+          <td>+234908089</td>
+          <td>10 lekki 1</td>
+          <td>Science</td>
+          <td>20%</td>
+        </tr>
+
+      </tbody>
+
+      <tfoot>
+        <tr>
+          <td>3</td>
+          <td>3</td>
+          <td>3</td>
+          <td>30</td>
+        </tr>
+
+      </tfoot>
+
+
+    </table>
+
+
+
+
+    
+      <div>
+        <label for="username">Username</label>
+        <input type="text" id="username"><br/>
+      </div>
+    
+      <div>
+        <label for="email"> Enter email</label>
+        <input type="email" id="email">
+        
+      </div>
+      
+
+      <div> 
+        <input type="password" placeholder=" enter your password">
+        <input type="date" placeholder="date">
+        <input type="time" placeholder="time">
+        <input type="file" placeholder="file">
+        <input type="number" placeholder=" no">
+      </div>
+
+
+      <div>
+        <button type="submit">submit</button>
+        <button type="reset">reset</button>
+      </div>
+
+      <div>
+        <label for="">pick</label>
+        <input type="checkbox" />
+        <input type="checkbox" />
+        <input type="checkbox" />
+        <input type="checkbox" />
+        <input type="checkbox" />
+      </div>
+
+      <div>
+        <label for="">pick </label>
+        <input type="radio" name="gender">
+        <input type="radio" name="gender">
+        <input type="radio" name="gender">
+        <input type="radio" name="gender">
+        <input type="radio" name="gender">
+      </div>
+
+      <select>
+        <option value="">boy</option>
+        <option value="">girl</option>
+        <option value="">girl</option>
+        <option value="">girl</option>
+        <option value="">girl</option>
+        
+      </select>
+    </form>
+
+
+
+<!-- MENU TABLE -->
+
+    <section id="menu">
+
+        <h2>Food Menu</h2>
+
+        <table border="1" cellpadding="10">
+
+            <tr>
+                <th>Food</th>
+                <th>Category</th>
+                <th>Price</th>
+            </tr>
+
+            <tr>
+                <td>Pancakes</td>
+                <td>Breakfast</td>
+                <td>₦2500</td>
+            </tr>
+
+            <tr>
+                <td>Chicken Sandwich</td>
+                <td>Brunch</td>
+                <td>₦3500</td>
+            </tr>
+
+            <tr>
+                <td>Pounded Yam & Egusi</td>
+                <td>Swallow</td>
+                <td>₦4500</td>
+            </tr>
+
+        </table>
+
+    </section>
+
+    <hr>
+
+
+    semantics tags
+
+     <body>
+    <header>
+        <nav>
+            <!-- logo section  -->
+             <div><img src="./public/image/download.jpg"></div>
+
+             <!-- search section  -->
+              <div>
+                <form action="">
+                    <input type="text">
+                    <button>search</button>
+                </form>
+              </div>
+
+              <!-- nav links  -->
+               <div>
+                <ul>
+                    <li><a href="#">Accounr</a></li>
+                    <li><a href="#">help</a></li>
+                    <li><a href="#">cart</a></li>
+                </ul>
+               </div>
+        </nav>
+
+        <aside>
+            <div>
+                <ul>
+                    <li><a href="#">Accounr</a></li>
+                    <li><a href="#">help</a></li>
+                    <li><a href="#">cart</a></li>
+                </ul>
+            </div>
+        </aside>
+
+    </header>
+
+    
+    
+    
+    <main>
+        <section>
+            <h3>Hero Section</h3>
+            <article>
+                <img src="./public/image/download.jpg" alt="image loading" width="300px">
+                <h4> New Product</h4>
+                <p> Lorem ipsum dolor sit, amet consectetur adipisicing elit.</p>
+                <h6> $568.90</h6>
+            </article>
+        </section>
+
+        <section>
+
+        </section>
+    </main>
+
+
+    <footer>
+        <h1> footer section</h1>
+        <marquee behavior="smooth" direction="right">Get 50% off all products</marquee> 
+    </footer>
