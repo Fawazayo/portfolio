@@ -1,66 +1,182 @@
 <!doctype html>
-<lang="en">
+<html lang="en">
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/all.min.css" integrity="sha512-2SwdPD6INVrV/lHTZbO2nodKhrnDdJK9/kg2XD1r9uGqPo1cUbujc+IYdlYdEErWNu69gVcYgdxlmVmzTWnetw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
-    
-    <title>Portfolio</title>
+    <link rel="stylesheet" href="./style.css">
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/all.min.css"
+      integrity="sha512-2SwdPD6INVrV/lHTZbO2nodKhrnDdJK9/kg2XD1r9uGqPo1cUbujc+IYdlYdEErWNu69gVcYgdxlmVmzTWnetw=="
+      crossorigin="anonymous"
+      referrerpolicy="no-referrer"
+    />
+    <title>Document</title>
   </head>
-
-  <header>
-    <h1>MY PORTFOLIO</h1> <hr/>
-    <h1>Mustapha Fawaz</h1>
-
-    <p> Im a front-end developer and a content creator . Im currently building a web app for designers</p>
-
-    <pre>
-                       hello world                             Frontend developer 
-
-                       HTML                                    CSS 
-
-    </pre>
-
-    <!-- <code>const addSum</code> -->
-
-    
-
-    <!-- naviagation links -->
-    <br>
+  <body>
+    <header>
+      <nav>
+        <div class="logo">
+          <h1>Portfolio</h1>
+        </div>
         <ul>
-            
-            <li><a href="./portfolioabout.html">About <i class="fa-solid fa-circle-user"></i></a></li>
-            <li><a href="./portfoliocontact.html">Contact <i class="fa-solid fa-user"></i></a></li>
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Service</a></li>
+          <li><a href="#">Projects</a></li>
+          <li><a href="#">About</a></li>
+          <li><a href="#">Contact</a></li>
         </ul>
-        
+        <button class="btn-primary">Book a call</button>
+      </nav>
+    </header>
 
-         <!-- email link  -->
+    <main>
+      <section class="hero-section">
+        <div class="text-content">
+          <h3>Hi,I build applications and websites.</h3>
+          <h1>Software Developer.</h1>
+          <p>
+            Clean code. Modern design. User-friendly interfaces. I create digital experiences that are both functional and visually appealing.
+          </p>
+          <div class="btn-container">
+            <button class="btn-primary">Let's Connect</button>
+            <button class="btn-secondary">See my work</button>
+          </div>
+        </div>
 
-         <!-- <a href="mailto:mustaphafawaz29@gmail.com"> Send email </a></header></br> -->
+        <div class="image-content">
+          <div class="image-box">
+            <img
+              src="./public/image/IMG-20250716-WA0006.jpg"
+              alt="loading..."
+            />
+          </div>
 
-         <!-- Phone link -->
-          <!-- <a href="tel: +2349031490825"> Call me </a></br></br>     -->
-               <!-- section link  -->
+          <div class="self-content">
+            <div class="box-1">
+              <h3>1M+</h3>
+              <p>Coding Hours</p>
+            </div>
+            <div class="box-2">
+              <h3>500+</h3>
+              <p>Satisfied Clients</p>
+            </div>
+            <div class="box-3">
+              <h3>140+</h3>
+              <p>Projects Completed</p>
+            </div>
+            
+            <div class="box-4">
+              <h3>10+</h3>
+              <p>Years of Experience</p>
+            </div>
+          </div>
+        </div>
+      </section>
 
-          <a href="#section id"> Click here for more information</a></br></br>
+      <section class="about-section">
+        <div class="section-heading">
+          <h2>About me</h2>
+          <p>
+            Im a frontend developer with a passion for creating beautiful and functional web applications. I have experience working with a variety of technologies and frameworks, and I am always eager to learn new things.
+          </p>
+        </div>
 
-          <!-- download file -->
-           <!-- <a href="./public/file/CVPDF.docx" download>Download cv</a> -->
-          
-    </nav><br/>
+        <div class="section-content">
+          <div class="left-side-content">
+            <div class="profile-image-box">
+              <img
+                src="./public/image/IMG-20250716-WA0006.jpg"
+                alt="image"
+              />
+            </div>
+            <div class="status">
+              <div class="status-box"></div>
+              <p>Available for work</p>
+            </div>
 
-    <img src="./public/image/Untitled.jpgggg.jpg"alt="imagee" width="400" height="400" style="max:width 100px;">
+            <div class="my-info">
+              <h2>Mustapha Fawaz</h2>
+              <p> Im a frontend developer with a passion for creating beautiful and functional web applications. I have experience working with a variety of technologies and frameworks, and I am always eager to learn new things.
+              </p>
+            </div>
 
-    <p id="section id"> 
-      Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi reprehenderit earum enim similique facilis minus excepturi ratione incidunt repudiandae quia. </br>
-      Lorem ipsum dolor sit, amet consectetur adipisicing elit. Perspiciatis hic qui reprehenderit corporis modi earum doloremque aliquid suscipit excepturi minima debitis neque iste laborum, quis voluptas necessitatibus illo minus dignissimos.
-    </p>
+            <div class="icons-content">
+              <a href="#">
+                <i class="fa-brands fa-instagram"></i>
+              </a>
+              <a href="#">
+                <i class="fa-brands fa-linkedin-in"></i>
+              </a>
+              <a href="#">
+                <i class="fa-brands fa-github"></i>
+              </a>
+              <a href="#">
+                <i class="fa-brands fa-x-twitter"></i>
+              </a>
+            </div>
 
+            <button class="btn-primary">Let's Connect</button>
+          </div>
 
+          <div class="right-side-content">
+            <div class="profile-summary-box">
+              <h2>Mustapha Fawaz</h2>
+              <p>
+                Frontend developer with a passion for creating beautiful and functional web applications. I have experience working with a variety of technologies and frameworks, and I am always eager to learn new things.
+              </p>
+              <p>
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Quis
+                assumenda laudantium cumque iure sequi asperiores omnis
+                voluptate minima quo excepturi.
+              </p>
+            </div>
+            <div class="tech-stack-box">
+              <div>
+                <h4>My Stack Tech:</h4>
 
+                <div class="stack-icons">
+                  <i class="fa-brands fa-html5"></i>
 
-  </header>
+                  <i class="fa-brands fa-css3"></i>
 
+                  <i class="fa-brands fa-js"></i>
 
+                  <i class="fa-brands fa-react"></i>
+                </div>
+              </div>
+            </div>
+            <div class="experience-box">
+              <div class="experience-content">
+                <h2>Experience</h2>
+
+                <div class="experience-info">
+                  <div>
+                    <p>Product Designer</p>
+                    <p>NextTexh</p>
+                    <p>2017</p>
+                  </div>
+                  <div>
+                    <p>Product Designer</p>
+                    <p>Pan Center</p>
+                    <p>2020</p>
+                  </div>
+                  <div>
+                    <p>Product Designer</p>
+                    <p>NextTexh</p>
+                    <p>2024</p>
+                  </div>
+                  <div>
+                    <p>Frontend Developer</p>
+                    <p>NextTexh</p>
+                    <p>2026</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+    </main>
   </body>
 </html>

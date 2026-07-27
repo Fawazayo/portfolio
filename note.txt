@@ -192,6 +192,21 @@ tabbbbbbbbbbbbleeeeeeeee
 
 
 
+    <p> Choose a language</p>
+    <input type="checkbox" name = "java "/>
+    <label for = "">java</label>
+
+    <input type="checkbox" name = "java "/>
+    <label for = "">python</label>
+
+    <input type="checkbox" name = "css "/>
+    <label for = "">css</label>
+
+    <p> CHoose a language </p>
+    <input type = "radio" name = language 
+
+
+
 
     
       <div>

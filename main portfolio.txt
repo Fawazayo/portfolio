@@ -1,0 +1,53 @@
+<header>
+      <h1>MY PORTFOLIO</h1> <hr/>
+      <h1>Mustapha Fawaz</h1>
+
+    <p> Im a front-end developer and a content creator . Im currently building a web app for designers</p>
+
+    <pre>
+                       hello world                             Frontend developer 
+
+                       HTML                                    CSS 
+
+    </pre>
+
+    <!-- <code>const addSum</code> -->
+
+    
+
+    <!-- naviagation links -->
+    <br>
+        <ul>
+            
+            <li><a href="./portfolioabout.html">About <i class="fa-solid fa-circle-user"></i></a></li>
+            <li><a href="./portfoliocontact.html">Contact <i class="fa-solid fa-user"></i></a></li>
+        </ul>
+        
+
+         <!-- email link  -->
+
+         <!-- <a href="mailto:mustaphafawaz29@gmail.com"> Send email </a></header></br> -->
+
+         <!-- Phone link -->
+          <!-- <a href="tel: +2349031490825"> Call me </a></br></br>     -->
+               <!-- section link  -->
+
+          <a href="#section id"> Click here for more information</a></br></br>
+
+          <!-- download file -->
+           <!-- <a href="./public/file/CVPDF.docx" download>Download cv</a> -->
+          
+    </nav><br/>
+
+    <img src="./public/image/Untitled.jpgggg.jpg"alt="imagee" width="400" height="400" style="max:width 100px;">
+
+    <p id="section id"> 
+      Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi reprehenderit earum enim similique facilis minus excepturi ratione incidunt repudiandae quia. </br>
+      Lorem ipsum dolor sit, amet consectetur adipisicing elit. Perspiciatis hic qui reprehenderit corporis modi earum doloremque aliquid suscipit excepturi minima debitis neque iste laborum, quis voluptas necessitatibus illo minus dignissimos.
+    </p>
+
+
+
+
+icon tags
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/all.min.css" integrity="sha512-2SwdPD6INVrV/lHTZbO2nodKhrnDdJK9/kg2XD1r9uGqPo1cUbujc+IYdlYdEErWNu69gVcYgdxlmVmzTWnetw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
